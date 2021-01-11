@@ -122,8 +122,12 @@ Workaround to prevent default behaviour- add a type attribute:
 
 - built in browser validation on the frontend
 
-### - required attribute
+### - `required` attribute
 
-### - minlength, maxlength
+### - minlength, maxlength attributes
 
-### - min, max
+### - min, max attributes
+
+### - type="email" - expects a certain format/pattern
+
+### - type="url" - expects a certain format/pattern

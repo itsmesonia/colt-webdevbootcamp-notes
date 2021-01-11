@@ -50,5 +50,6 @@ At its core, it's a system to share resources over the internet and all built on
 ## Entity Codes
 
 - sequences we can use inside of our HTML to show different characters (copyright symbol)
+- Resource for <a href="https://dev.w3.org/html5/html-author/charref">references</a>
 
 <img src="./assets/Screenshot 2021-01-11 at 18.34.33.png" />

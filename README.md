@@ -80,11 +80,11 @@ A collection of HTML elements for users to input values. Forms are for informati
 - the _action_ attribute- specifies WHERE the form data should be sent.
 - the _method_ attribute specifies which HTTP method is being use eg GET method.
 
-  <img src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
+<img src="./assets/Screenshot 2021-01-11 at 19.59.58.png" />
 
-  _what happens bhind the scenes_
+_what happens bhind the scenes_
 
-  search inputted in form by user -> requesr sent to end point of server with query search term -> server sends back results
+search inputted in form by user -> requesr sent to end point of server with query search term -> server sends back results
 
 # Common Input Types
 

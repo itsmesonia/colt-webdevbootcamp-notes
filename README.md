@@ -103,3 +103,7 @@ A collection of HTML elements for users to input values. Forms are for informati
 ### Placeholder attribute - the initial text specifying what the input should be for users
 
 # The All-Important Label
+
+Important for accessibility.
+
+`<label for="inputId"></label>`

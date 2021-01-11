@@ -80,7 +80,7 @@ A collection of HTML elements for users to input values. Forms are for informati
 - the _action_ attribute- specifies WHERE the form data should be sent.
 - the _method_ attribute specifies which HTTP method is being use eg GET method.
 
-  <img src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
+  <img src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
 
   _what happens bhind the scenes_
 

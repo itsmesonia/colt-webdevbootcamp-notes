@@ -107,3 +107,11 @@ search inputted in form by user -> requesr sent to end point of server with quer
 Important for accessibility.
 
 `<label for="inputId"></label>`
+
+# HTML Button
+
+When there's a button _inside_ a form, it submits the form - default behaviour.
+
+Workaround to prevent default behaviour- add a type attribute:
+
+`<button type="button> Button! </button>`

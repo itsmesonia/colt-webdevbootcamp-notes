@@ -68,3 +68,20 @@ At its core, it's a system to share resources over the internet and all built on
 Tabular data nice clear way of displaying some data. Popular back in the 90s to layout websites.
 
 <img src="./assets/Screenshot 2021-01-11 at 19.28.32.png" />
+
+<img src="./assets/Screenshot 2021-01-11 at 19.32.40.png" />
+
+# HTML forms
+
+<img src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
+
+A collection of HTML elements for users to input values. Forms are for information collecting. A simple search can be from a form- it fires across a HTTP request to a server to retrieve results for the search.
+
+- the _action_ attribute- specifies WHERE the form data should be sent.
+- the _method_ attribute specifies which HTTP method is being use eg GET method.
+
+  <img src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
+
+# Common Input Types
+
+# The All-Important Label

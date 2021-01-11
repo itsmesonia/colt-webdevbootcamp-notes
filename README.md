@@ -115,3 +115,15 @@ When there's a button _inside_ a form, it submits the form - default behaviour.
 Workaround to prevent default behaviour- add a type attribute:
 
 `<button type="button> Button! </button>`
+
+#### Radio Buttons, Checkboxes, & Selects - input options, refer to MDN
+
+# HTML5 Form Validations
+
+- built in browser validation on the frontend
+
+### - required attribute
+
+### - minlength, maxlength
+
+### - min, max

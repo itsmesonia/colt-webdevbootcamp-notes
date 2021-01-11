@@ -82,6 +82,24 @@ A collection of HTML elements for users to input values. Forms are for informati
 
   <img src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
 
+  _what happens bhind the scenes_
+
+  search inputted in form by user -> requesr sent to end point of server with query search term -> server sends back results
+
 # Common Input Types
+
+<img src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
+
+- varying types of inputs, using the _type_ attribute to specify what type of input you'd like.
+
+###### Types of inputs:
+
+- time
+- text
+- password
+- color
+- number
+
+### Placeholder attribute - the initial text specifying what the input should be for users
 
 # The All-Important Label

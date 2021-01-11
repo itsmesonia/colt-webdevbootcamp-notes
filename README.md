@@ -40,6 +40,15 @@ At its core, it's a system to share resources over the internet and all built on
 
 # HTML: Next Steps & Semantics
 
-- <a href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
+-<a href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
+
 - Block and inline elements
 - span/ div elements
+
+<img src="./assets/Screenshot 2021-01-11 at 18.02.04.png" />
+
+## Entity Codes
+
+- sequences we can use inside of our HTML to show different characters (copyright symbol)
+
+<img src="./assets/Screenshot 2021-01-11 at 18.34.33.png" />

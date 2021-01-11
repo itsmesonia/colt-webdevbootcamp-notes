@@ -33,7 +33,7 @@ At its core, it's a system to share resources over the internet and all built on
 - HTML forms
 - HTML Headings (h1, h2 etc)
 - HTML Lists- ul/ol, nested lists
-- Anchor Tags
+- Anchor Tags (and href attributes for added information- offers a path for link)
 - HTML Images
 
 <img src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />

@@ -60,3 +60,5 @@ At its core, it's a system to share resources over the internet and all built on
 - The use of descriptive tags instead of using standard divs.
 
 <img src="./assets/Screenshot 2021-01-11 at 18.54.43.png" />
+
+## VSCode <a href ="https://docs.emmet.io/">Emmet</a> documentation

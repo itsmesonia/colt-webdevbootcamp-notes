@@ -4,7 +4,7 @@ Topics covered so far:
 
 ## The Web
 
-At it's core, it's a system to share resources over the internet and all built on HTTP. 
+At its core, it's a system to share resources over the internet and all built on HTTP. 
 
 <img src="./assets/Screenshot 2021-01-11 at 16.19.49.png" />
 
@@ -24,3 +24,13 @@ At it's core, it's a system to share resources over the internet and all built o
 4. The server responds with instructions with code that my browser can understand.
 5. So the job of my browser is essentially to display or to render content for the user, for humans, for human eyes/ears.
 
+# HTML Essentials- markup language 
+- Boilerplate
+- paragraph elements
+- HTML forms
+- HTML Headings (h1, h2 etc)
+- HTML Lists
+- Anchor Tags
+- HTML Images
+
+<img src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />

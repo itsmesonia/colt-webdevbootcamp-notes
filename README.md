@@ -116,7 +116,7 @@ Workaround to prevent default behaviour- add a type attribute:
 
 `<button type="button> Button! </button>`
 
-#### Radio Buttons, Checkboxes, & Selects - input options, refer to MDN
+#### NB Radio Buttons, Checkboxes, & Selects - also input options, refer to MDN
 
 # HTML5 Form Validations
 
@@ -131,3 +131,5 @@ Workaround to prevent default behaviour- add a type attribute:
 ### - type="email" - expects a certain format/pattern
 
 ### - type="url" - expects a certain format/pattern
+
+# CSS

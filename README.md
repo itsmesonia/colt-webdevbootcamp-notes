@@ -32,8 +32,14 @@ At its core, it's a system to share resources over the internet and all built on
 - paragraph elements
 - HTML forms
 - HTML Headings (h1, h2 etc)
-- HTML Lists- ul/ol, nested lists
+- HTML Lists - ul/ol, nested lists
 - Anchor Tags (and href attributes for added information- offers a path for link)
-- HTML Images
+- HTML Images - self-closing
 
 <img src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />
+
+# HTML: Next Steps & Semantics
+
+- <a href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
+- Block and inline elements
+- span/ div elements

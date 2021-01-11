@@ -61,4 +61,10 @@ At its core, it's a system to share resources over the internet and all built on
 
 <img src="./assets/Screenshot 2021-01-11 at 18.54.43.png" />
 
-## VSCode <a href ="https://docs.emmet.io/">Emmet</a> documentation
+### VSCode <a href ="https://docs.emmet.io/">Emmet</a> documentation
+
+# HTML: Forms & Tables
+
+Tabular data nice clear way of displaying some data. Popular back in the 90s to layout websites.
+
+<img src="./assets/Screenshot 2021-01-11 at 19.28.32.png" />

@@ -134,9 +134,7 @@ Workaround to prevent default behaviour- add a type attribute:
 
 # CSS
 
-<img src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
-
-<img src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
+<img width="100px" src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
 
 <img src="./assets/Screenshot 2021-01-12 at 00.01.31.png" />
 

@@ -134,8 +134,8 @@ Workaround to prevent default behaviour- add a type attribute:
 
 # CSS
 
-<img width="500px" src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
+<img width="900px" src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
 
-<img width="500px" src="./assets/Screenshot 2021-01-12 at 00.01.31.png" />
+<img width="900px" src="./assets/Screenshot 2021-01-12 at 00.01.31.png" />
 
 # The World of CSS Selectors

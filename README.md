@@ -82,7 +82,7 @@ A collection of HTML elements for users to input values. Forms are for informati
 
 <img src="./assets/Screenshot 2021-01-11 at 19.59.58.png" />
 
-_what happens bhind the scenes_
+_what happens behind the scenes_
 
 search inputted in form by user -> requesr sent to end point of server with query search term -> server sends back results
 
@@ -133,3 +133,11 @@ Workaround to prevent default behaviour- add a type attribute:
 ### - type="url" - expects a certain format/pattern
 
 # CSS
+
+<img src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
+
+<img src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
+
+<img src="./assets/Screenshot 2021-01-12 at 00.01.31.png" />
+
+# The World of CSS Selectors

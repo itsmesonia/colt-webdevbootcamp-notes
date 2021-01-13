@@ -138,4 +138,8 @@ Workaround to prevent default behaviour- add a type attribute:
 
 <img width="800px" src="./assets/Screenshot 2021-01-12 at 00.01.31.png" />
 
+# inline elements
+
+<img width="800px" src="./assets/Screenshot 2021-01-12 at 00.10.50.png" />
+
 # The World of CSS Selectors

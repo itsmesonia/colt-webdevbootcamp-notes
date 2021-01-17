@@ -148,4 +148,6 @@ Workaround to prevent default behaviour- add a type attribute:
 
 Learning Objectives:
 
+<p align="center">
 <img width="500px" src="./assets/Screenshot 2021-01-17 at 22.46.27.png" />
+</p>

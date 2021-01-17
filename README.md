@@ -147,4 +147,5 @@ Workaround to prevent default behaviour- add a type attribute:
 ## Universal & Element Selectors
 
 Learning Objectives:
-<img src="./assets/Screenshot 2021-01-11 at 16.20.49.png" width="500px">
+
+<img src="./assets/Screenshot 2021-01-17 at 22.46.27.png" width="500px">

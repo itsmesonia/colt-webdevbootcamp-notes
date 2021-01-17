@@ -148,4 +148,4 @@ Workaround to prevent default behaviour- add a type attribute:
 
 Learning Objectives:
 
-<img src="./assets/Screenshot 2021-01-17 at 22.46.27.png" width="500px">
+<img width="500px" src="./assets/Screenshot 2021-01-17 at 22.46.27.png" />

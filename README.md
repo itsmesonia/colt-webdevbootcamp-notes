@@ -149,5 +149,23 @@ Workaround to prevent default behaviour- add a type attribute:
 Learning Objectives:
 
 <p align="center">
-<img width="500px" src="./assets/Screenshot 2021-01-17 at 22.46.27.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-17 at 22.46.27.png" />
 </p>
+
+### Univrsal selector (selects everything):
+
+```
+* {
+  color: black;
+}
+
+```
+
+### Selector list (selecting multiple):
+
+```
+h1, h2, h3 {
+  color: black;
+}
+
+```

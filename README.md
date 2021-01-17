@@ -146,5 +146,5 @@ Workaround to prevent default behaviour- add a type attribute:
 
 ## Universal & Element Selectors
 
-Learning Onjectics:
-<img src="./assets/Screenshot 2021-01-11 at 16.20.49.png" width="200px">
+Learning Objectives:
+<img src="./assets/Screenshot 2021-01-11 at 16.20.49.png" width="500px">

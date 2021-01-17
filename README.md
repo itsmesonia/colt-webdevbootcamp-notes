@@ -2,7 +2,7 @@
 
 Topics covered so far:
 
-## The Web
+## Section 1 & 2: The Web
 
 At its core, it's a system to share resources over the internet and all built on HTTP.
 
@@ -25,7 +25,7 @@ At its core, it's a system to share resources over the internet and all built on
 4. The server responds with instructions with code that my browser can understand.
 5. So the job of my browser is essentially to display or to render content for the user, for humans, for human eyes/ears.
 
-# HTML Essentials- markup language
+# Section 3: HTML Essentials- markup language
 
 - Boilerplate - template
 - HTML root element
@@ -38,7 +38,7 @@ At its core, it's a system to share resources over the internet and all built on
 
 <img src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />
 
-# HTML: Next Steps & Semantics
+# Section 4: HTML: Next Steps & Semantics
 
 -<a href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
 
@@ -63,7 +63,7 @@ At its core, it's a system to share resources over the internet and all built on
 
 ### VSCode <a href ="https://docs.emmet.io/">Emmet</a> documentation
 
-# HTML: Forms & Tables
+# Section 5: HTML: Forms & Tables
 
 Tabular data nice clear way of displaying some data. Popular back in the 90s to layout websites.
 
@@ -132,7 +132,7 @@ Workaround to prevent default behaviour- add a type attribute:
 
 ### - type="url" - expects a certain format/pattern
 
-# CSS
+# Section 6: CSS
 
 <img width="800px" src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
 
@@ -142,4 +142,6 @@ Workaround to prevent default behaviour- add a type attribute:
 
 <img width="800px" src="./assets/Screenshot 2021-01-12 at 00.10.50.png" />
 
-# The World of CSS Selectors
+# Section 7: The World of CSS Selectors
+
+## Universal & Element Selectors

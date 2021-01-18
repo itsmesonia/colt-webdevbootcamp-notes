@@ -191,6 +191,8 @@ USeful for repeated patterns.
 
 # The Descendent Selector
 
+Commonly used. The syntax involves applying a space between nested html elements (including classes and ids where applicable).
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.13.19.png" />
 </p>

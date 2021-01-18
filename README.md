@@ -180,3 +180,11 @@ You add an I.D. to your markup and then you reference it using the name of the I
 </p>
 
 ## Class Selector
+
+More common, and can be applied ot multiple elements. You're not going to have every single thing be completely different.
+You often will have groups of things or classes that you style similarly.
+USeful for repeated patterns.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 22.20.08.png" />
+</p>

@@ -224,3 +224,9 @@ Fairly uncommon to use. You can applythis rule to any attricute including classe
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.48.22.png" />
 </p>
+
+# Pseudo Classes
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 23.58.29.png" />
+</p>

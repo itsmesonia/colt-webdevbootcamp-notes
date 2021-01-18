@@ -169,3 +169,14 @@ h1, h2, h3 {
 }
 
 ```
+
+## ID Selector
+
+The whole idea behind the `id` selector is that it's singling out one thing. It's a unique identifier.
+You add an I.D. to your markup and then you reference it using the name of the ID and the hash sign. You shouldn't have more than a handful on an application.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 22.14.19.png" />
+</p>
+
+## Class Selector

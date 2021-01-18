@@ -196,3 +196,17 @@ Commonly used. The syntax involves applying a space between nested html elements
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.13.19.png" />
 </p>
+
+# The Adjacent & Direct-Descendent Selectors
+
+Not commonly used. Applying styling to elements one after another- NOT nested.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 23.19.06.png" />
+</p>
+
+Selecting elements that are direct descendents of an element.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 23.21.23.png" />
+</p>

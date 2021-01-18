@@ -188,3 +188,9 @@ USeful for repeated patterns.
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 22.20.08.png" />
 </p>
+
+# The Descendent Selector
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 23.13.19.png" />
+</p>

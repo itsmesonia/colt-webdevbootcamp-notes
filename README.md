@@ -213,6 +213,14 @@ Selecting elements that are direct descendents of an element.
 
 # The Attribute Selector
 
+Fairly uncommon to use. You can applythis rule to any attricute including classes.
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.25.06.png" />
+</p>
+
+# Pseudo Classes
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 23.48.22.png" />
 </p>

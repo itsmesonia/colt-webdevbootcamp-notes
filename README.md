@@ -199,7 +199,7 @@ Commonly used. The syntax involves applying a space between nested html elements
 
 # The Adjacent & Direct-Descendent Selectors
 
-Not commonly used. Applying styling to elements one after another- NOT nested.
+Not commonly used. Applying styling to elements one after another- NOT nested but ADJACENT to eachother.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.19.06.png" />
@@ -209,4 +209,10 @@ Selecting elements that are direct descendents of an element.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.21.23.png" />
+</p>
+
+# The Attribute Selector
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-18 at 23.25.06.png" />
 </p>

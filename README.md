@@ -213,7 +213,7 @@ Selecting elements that are direct descendents of an element.
 
 # The Attribute Selector
 
-Fairly uncommon to use. You can applythis rule to any attricute including classes.
+Fairly uncommon to use. You can apply this rule to any attricute including classes.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.25.06.png" />
@@ -241,4 +241,10 @@ Parts of an element.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-19 at 00.04.32.png" />
+</p>
+
+Resource: https://specificity.keegan.st/
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-19 at 00.22.53.png" />
 </p>

@@ -227,6 +227,18 @@ Fairly uncommon to use. You can applythis rule to any attricute including classe
 
 # Pseudo Classes
 
+Parts of an element.
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-18 at 23.58.29.png" />
+</p>
+
+# Specificity
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-19 at 00.04.28.png" />
+</p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-19 at 00.04.32.png" />
 </p>

@@ -6,9 +6,12 @@ Topics covered so far:
 
 At its core, it's a system to share resources over the internet and all built on HTTP.
 
+<p align="center">
 <img src="./assets/Screenshot 2021-01-11 at 16.19.49.png" />
-
+</p>
+<p align="center">
 <img src="./assets/Screenshot 2021-01-11 at 16.20.49.png" />
+</p>
 
 ## HTTP Requests: Hyper Text Transfer Protocol
 
@@ -36,11 +39,15 @@ At its core, it's a system to share resources over the internet and all built on
 - Anchor Tags (and href attributes for added information- offers a path for link)
 - HTML Images - self-closing
 
+<p align="center">
 <img src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />
+</p>
 
 # Section 4: HTML: Next Steps & Semantics
 
+<p align="center">
 -<a href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
+<p>
 
 - Block and inline elements
 - span/ div elements

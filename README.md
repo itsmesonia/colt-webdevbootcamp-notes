@@ -258,8 +258,26 @@ Resource: https://specificity.keegan.st/
 
 # Inline Styles & Important
 
-The most specific way ot style, and often not recommended.
+The most specific way to style (ideally should be avoided), and often not recommended.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-21 at 17.30.18.png" />
 </p>
+
+The below is almost never used and isn't recommended. It ignores all other rules.
+
+`!important`
+
+# CSS Inheritance
+
+Styles will be inherited by child elements fro mparent elements if they're not set on that element specifically.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-21 at 17.33.27.png" />
+</p>
+
+Some elements don't inherit by default (submit on forms for example). There are workarounds for this but it's rare to use:
+
+`button, input { color: inherit }`
+
+# Section 8: The CSS Box Model

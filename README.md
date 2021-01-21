@@ -255,3 +255,11 @@ Resource: https://specificity.keegan.st/
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-19 at 00.22.53.png" />
 </p>
+
+# Inline Styles & Important
+
+The most specific way ot style, and often not recommended.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-21 at 17.30.18.png" />
+</p>

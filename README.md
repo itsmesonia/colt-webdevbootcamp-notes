@@ -285,3 +285,15 @@ Some elements don't inherit by default (submit on forms for example). There are 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-22 at 22.00.03.png" />
 </p>
+
+# Box Model: Width & Height
+
+The box model is basically just the idea that everything in excess is a box and those boxes have a couple of different properties.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-22 at 22.03.00.png" />
+</p>
+
+#### Box Model: Width & Height
+
+#### Box Model: Border & Border-Radius

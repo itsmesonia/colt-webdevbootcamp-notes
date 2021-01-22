@@ -281,3 +281,7 @@ Some elements don't inherit by default (submit on forms for example). There are 
 `button, input { color: inherit }`
 
 # Section 8: The CSS Box Model
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-22 at 22.00.03.png" />
+</p>

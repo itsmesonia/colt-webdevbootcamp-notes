@@ -7,10 +7,11 @@ Topics covered so far:
 At its core, it's a system to share resources over the internet and all built on HTTP.
 
 <p align="center">
-<img src="./assets/Screenshot 2021-01-11 at 16.19.49.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 16.19.49.png" />
 </p>
+
 <p align="center">
-<img src="./assets/Screenshot 2021-01-11 at 16.20.49.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 16.20.49.png" />
 </p>
 
 ## HTTP Requests: Hyper Text Transfer Protocol
@@ -40,33 +41,33 @@ At its core, it's a system to share resources over the internet and all built on
 - HTML Images - self-closing
 
 <p align="center">
-<img src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 17.20.30.png" />
 </p>
 
 # Section 4: HTML: Next Steps & Semantics
 
 <p align="center">
--<a href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
+-<a width="600px" href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
 <p>
 
 - Block and inline elements
 - span/ div elements
 
-<img src="./assets/Screenshot 2021-01-11 at 18.02.04.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 18.02.04.png" />
 
 ## Entity Codes
 
 - sequences we can use inside of our HTML to show different characters (eg. copyright symbol)
 - Resource for <a href="https://dev.w3.org/html5/html-author/charref">references</a>
 
-<img src="./assets/Screenshot 2021-01-11 at 18.34.33.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 18.34.33.png" />
 
 # Semantic Markup
 
 - Semantic- relating to meaning.
 - The use of descriptive tags instead of using standard divs.
 
-<img src="./assets/Screenshot 2021-01-11 at 18.54.43.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 18.54.43.png" />
 
 ### VSCode <a href ="https://docs.emmet.io/">Emmet</a> documentation
 
@@ -74,20 +75,20 @@ At its core, it's a system to share resources over the internet and all built on
 
 Tabular data nice clear way of displaying some data. Popular back in the 90s to layout websites.
 
-<img src="./assets/Screenshot 2021-01-11 at 19.28.32.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 19.28.32.png" />
 
-<img src="./assets/Screenshot 2021-01-11 at 19.32.40.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 19.32.40.png" />
 
 # HTML forms
 
-<img src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
 
 A collection of HTML elements for users to input values. Forms are for information collecting. A simple search can be from a form- it fires across a HTTP request to a server to retrieve results for the search.
 
 - the _action_ attribute- specifies WHERE the form data should be sent.
 - the _method_ attribute specifies which HTTP method is being use eg GET method.
 
-<img src="./assets/Screenshot 2021-01-11 at 19.59.58.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 19.59.58.png" />
 
 _what happens behind the scenes_
 
@@ -95,7 +96,7 @@ search inputted in form by user -> requesr sent to end point of server with quer
 
 # Common Input Types
 
-<img src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
+<img width="600px" src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
 
 - varying types of inputs, using the _type_ attribute to specify what type of input you'd like.
 

@@ -56,6 +56,7 @@ At its core, it's a system to share resources over the internet and all built on
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 18.02.04.png" />
 </p>
+
 ## Entity Codes
 
 - sequences we can use inside of our HTML to show different characters (eg. copyright symbol)
@@ -104,7 +105,7 @@ A collection of HTML elements for users to input values. Forms are for informati
 
 _what happens behind the scenes_
 
-search inputted in form by user -> requesr sent to end point of server with query search term -> server sends back results
+search inputted in form by user -> request sent to end point of server with query search term -> server sends back results
 
 # Common Input Types
 
@@ -150,9 +151,9 @@ Workaround to prevent default behaviour- add a type attribute:
 
 ### - min, max attributes
 
-### - type="email" - expects a certain format/pattern
+### - `type="email"` - expects a certain format/pattern
 
-### - type="url" - expects a certain format/pattern
+### - `type="url"` - expects a certain format/pattern
 
 # Section 6: CSS
 

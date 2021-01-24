@@ -53,21 +53,26 @@ At its core, it's a system to share resources over the internet and all built on
 - Block and inline elements
 - span/ div elements
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 18.02.04.png" />
-
+</p>
 ## Entity Codes
 
 - sequences we can use inside of our HTML to show different characters (eg. copyright symbol)
 - Resource for <a href="https://dev.w3.org/html5/html-author/charref">references</a>
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 18.34.33.png" />
+</p>
 
 # Semantic Markup
 
 - Semantic- relating to meaning.
 - The use of descriptive tags instead of using standard divs.
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 18.54.43.png" />
+</p>
 
 ### VSCode <a href ="https://docs.emmet.io/">Emmet</a> documentation
 
@@ -75,20 +80,27 @@ At its core, it's a system to share resources over the internet and all built on
 
 Tabular data nice clear way of displaying some data. Popular back in the 90s to layout websites.
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 19.28.32.png" />
-
+</p>
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 19.32.40.png" />
+</p>
 
 # HTML forms
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 19.45.05.png" />
+</p>
 
 A collection of HTML elements for users to input values. Forms are for information collecting. A simple search can be from a form- it fires across a HTTP request to a server to retrieve results for the search.
 
 - the _action_ attribute- specifies WHERE the form data should be sent.
 - the _method_ attribute specifies which HTTP method is being use eg GET method.
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 19.59.58.png" />
+</p>
 
 _what happens behind the scenes_
 
@@ -96,7 +108,9 @@ search inputted in form by user -> requesr sent to end point of server with quer
 
 # Common Input Types
 
+<p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 20.06.56.png" />
+</p>
 
 - varying types of inputs, using the _type_ attribute to specify what type of input you'd like.
 
@@ -142,13 +156,19 @@ Workaround to prevent default behaviour- add a type attribute:
 
 # Section 6: CSS
 
+<p align="center">
 <img width="600px" width="800px" src="./assets/Screenshot 2021-01-11 at 23.30.25.png" />
+</p>
 
+<p align="center">
 <img width="600px" width="800px" src="./assets/Screenshot 2021-01-12 at 00.01.31.png" />
+</p>
 
 # inline elements
 
+<p align="center">
 <img width="600px" width="800px" src="./assets/Screenshot 2021-01-12 at 00.10.50.png" />
+</p>
 
 # Section 7: The World of CSS Selectors
 

@@ -318,4 +318,14 @@ The box model is basically just the idea that everything in excess is a box and 
 
 #### Box Model: Width & Height
 
+They control the inner content box.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-25 at 23.19.58.png" />
+</p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-25 at 23.21.02.png" />
+</p>
+
 #### Box Model: Border & Border-Radius

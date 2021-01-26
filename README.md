@@ -325,3 +325,24 @@ They control the inner content box.
 </p>
 
 #### Box Model: Border & Border-Radius
+
+They're an important part of making, first of all, a nice looking website, but also they play an important role in making it clear what certain things do or bringing attention to certain elements.
+
+We can change the border, for example, as I hover, and that makes it very clear that I'm doing something
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 21.52.41.png" />
+</p>
+
+Pixels are commonly used for borders because generally, borders are small. So pixels are a pretty good unit to use.
+
+`border: solid 2px black`
+
+# Box Model: Padding
+
+So the next piece of the box model we need to cover is padding, padding is the space between the content,
+the actual content box and the border of an element.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.04.44.png" />
+</p>

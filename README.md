@@ -471,8 +471,32 @@ So it's relative to this one font size for the entire document. So if your root 
 
 No matter where you are in the document, no matter what your nested inside of.
 
-No matter where you are in the document, no matter what your nested inside of.
-
 But `ems` do you have a place, for example, when you want to make a little component, ie a button. A little thing that's reusable and might scale up or down nicely based upon that font size, REM's is really how something looks relative to the rest of the document.
 
 # Section 9: Other Assorted Useful CSS Properties
+
+Objectives for this module:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 23.41.56.png" />
+</p>
+
+# Opacity & The Alpha Channel
+
+### RGBA- Alpha channel:
+
+A value from 0 to 1.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 23.43.11.png" />
+</p>
+
+It's important to note here, is that the part the alpha channel, this this color is only going to affect the background color of the element or wherever I'm using this. That text itself wouldn't change and would remain the same colour.
+
+## opacity
+
+Now opacity is a property we set on an element that will make it or it governs the entire elements transparency, including its contents and any descendants.
+
+Opacity is a property that goes from zero to one, so zero is completely transparent and then one not at all transparent. An entire element, the entire div would be transparent versus with rgba.
+
+# The Position Property

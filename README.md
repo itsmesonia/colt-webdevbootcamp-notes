@@ -308,15 +308,13 @@ Some elements don't inherit by default (submit on forms for example). There are 
 <img width="600px" src="./assets/Screenshot 2021-01-22 at 22.00.03.png" />
 </p>
 
-# Box Model: Width & Height
+#### Box Model: Width & Height
 
 The box model is basically just the idea that everything in excess is a box and those boxes have a couple of different properties.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-22 at 22.03.00.png" />
 </p>
-
-#### Box Model: Width & Height
 
 They control the inner content box.
 
@@ -338,11 +336,15 @@ Pixels are commonly used for borders because generally, borders are small. So pi
 
 `border: solid 2px black`
 
-# Box Model: Padding
+#### Box Model: Padding
 
 So the next piece of the box model we need to cover is padding, padding is the space between the content,
 the actual content box and the border of an element.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.04.44.png" />
+</p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.07.00.png" />
 </p>

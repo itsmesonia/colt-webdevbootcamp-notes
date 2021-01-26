@@ -406,3 +406,25 @@ We can change the behavious or block level elements (elements that take up the f
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.20.48.png" />
 </p>
+
+But for the most part, what we've covered here are inline block and inline. Three different options for display.
+
+It all has to do with how elements fit in with other elements and how they're affected by box model properties.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.49.14.png" />
+</p>
+
+# CSS Units Revisited
+
+Concentration on relative units and are commonly used.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.50.02.png" />
+</p>
+
+### Percentage
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.50.53.png" />
+</p>

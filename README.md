@@ -401,6 +401,8 @@ We can change the behavious or block level elements (elements that take up the f
 
 `display: block` - on inline elements can reverse the behaviour
 
+`display: inline-block` - for block level elements, behviour will be inline and height and width will work
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.20.48.png" />
 </p>

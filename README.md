@@ -380,3 +380,21 @@ Shorthand:
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.11.40.png" />
 </p>
+
+# The Display Property
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.19.43.png" />
+</p>
+
+Recap on inline and block elements:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.19.51.png" />
+</p>
+
+## What to remember:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.20.48.png" />
+</p>

@@ -395,6 +395,12 @@ Recap on inline and block elements:
 
 ## What to remember:
 
+We can change the behavious or block level elements (elements that take up the full width of the screen).
+
+`display: inline` - on block level elements will reverse the block behaviour
+
+`display: block` - on inline elements can reverse the behaviour
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.20.48.png" />
 </p>

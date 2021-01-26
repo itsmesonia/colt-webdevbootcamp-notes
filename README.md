@@ -447,3 +447,32 @@ Why do we use ems?
   Font sizes for example, grow or shrink depending on the one change- the font size we evaluated the parent to.
 
 If we use pixels, we would have to tweak every one of these numbers. But if we use EMS, things scale as that font size changes.
+
+# CSS Units: rems
+
+There are limitiations with `ems`. Nested elements for example, can have a snowball affect due to ratios being based off parents.
+
+This is where `rems` can be considered even better for scalability:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 23.28.15.png" />
+</p>
+
+So REM's or root MS are similar, except rather than deriving the font size from the parent element, they derive the font size from the root HTML elements, font size.
+
+```
+//root element
+html {
+  font-size: 30px
+}
+```
+
+So it's relative to this one font size for the entire document. So if your root HTML element has a font size of 20 pixels, one room is always 20 pixels.
+
+No matter where you are in the document, no matter what your nested inside of.
+
+No matter where you are in the document, no matter what your nested inside of.
+
+But `ems` do you have a place, for example, when you want to make a little component, ie a button. A little thing that's reusable and might scale up or down nicely based upon that font size, REM's is really how something looks relative to the rest of the document.
+
+# Section 9: Other Assorted Useful CSS Properties

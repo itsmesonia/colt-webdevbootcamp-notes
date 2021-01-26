@@ -341,10 +341,42 @@ Pixels are commonly used for borders because generally, borders are small. So pi
 So the next piece of the box model we need to cover is padding, padding is the space between the content,
 the actual content box and the border of an element.
 
+It's the space between an element content area or content box and its own border, its internal spacing.
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.04.44.png" />
 </p>
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.07.00.png" />
+</p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.08.41.png" />
+</p>
+
+# Box Model: Margin
+
+Margin is the space outside of an element's border between that element and something else, other elements.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.11.20.png" />
+</p>
+
+So padding is the spacing on the inside of the border.
+
+Margin is the spacing on the outside.
+
+And just like padding, we have the four individual properties, margin left, margin, right, top
+
+Syntax:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.11.29.png" />
+</p>
+
+Shorthand:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 22.11.40.png" />
 </p>

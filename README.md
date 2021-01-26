@@ -428,3 +428,22 @@ Concentration on relative units and are commonly used.
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 22.50.53.png" />
 </p>
+
+### CSS Units: ems
+
+It has to do with the width of the height of the upper case letter M and typography.
+
+EMS are relative units as our REM's, so they are relative to some other value.
+
+And what's mildly confusing about them is that that other value changes depending on the property.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-26 at 23.00.41.png" />
+</p>
+
+Why do we use ems?
+
+- Proportional to parent size.
+  Font sizes for example, grow or shrink depending on the one change- the font size we evaluated the parent to.
+
+If we use pixels, we would have to tweak every one of these numbers. But if we use EMS, things scale as that font size changes.

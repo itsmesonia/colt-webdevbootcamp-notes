@@ -507,4 +507,4 @@ It determines how they work depending on how position is set.
 - static: elements are naturally static
 - relative: is going to keep the element in the normal flow of the document, but we can offset it relative to itself using top left, right and bottom. You can use top, bottom, left, and right to position the element. This offsets elements from its current position. It's positioned relative to where it would be if it was just normal, if I didn't offset it.
 - absolute: The element is removed from the normal document flow and no space is created for the element. Relative to its clostest 'positioned' ancestor. _Depends on the parents._
-- fixed: when something is positioned fixed, it's going to stay there. Its position is relative to that containing block always.
+- fixed: when something is positioned fixed, it's going to stay there. Its position is relative to that containing block always. Similar to `absolute`, except it has nothing to do with any parent elements.

@@ -501,4 +501,8 @@ Opacity is a property that goes from zero to one, so zero is completely transpar
 
 # The Position Property
 
-MDN definition: position sets how an element is positioned in a document.
+MDN definition: position sets how an element is positioned in a document. It establishes how for other properties: `top, right, bottom and left`.
+It determines how they work depending on how position is set.
+
+- static: elements are naturally static
+- relative: is going to keep the element in the normal flow of the document, but we can offset it relative to itself using top left, right and bottom. You can use top, bottom, left, and right to position the element.

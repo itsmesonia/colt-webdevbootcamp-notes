@@ -500,3 +500,5 @@ Now opacity is a property we set on an element that will make it or it governs t
 Opacity is a property that goes from zero to one, so zero is completely transparent and then one not at all transparent. An entire element, the entire div would be transparent versus with rgba.
 
 # The Position Property
+
+MDN definition: position sets how an element is positioned in a document.

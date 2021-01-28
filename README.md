@@ -491,7 +491,7 @@ A value from 0 to 1.
 <img width="600px" src="./assets/Screenshot 2021-01-26 at 23.43.11.png" />
 </p>
 
-It's important to note here, is that the part the alpha channel, this this color is only going to affect the background color of the element or wherever I'm using this. That text itself wouldn't change and would remain the same colour.
+What's important to note here, is that the part the alpha channel, this this color is only going to affect the background color of the element or wherever I'm using this. That text itself wouldn't change and would remain the same colour.
 
 ## opacity
 
@@ -513,3 +513,11 @@ It determines how they work depending on how position is set.
 # CSS Transitions (yay!)
 
 So transitions allow us to animate the transition of one property value to another property value.
+
+`trasition: 1s`
+
+Syntax with further options:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-28 at 22.34.17.png" />
+</p>

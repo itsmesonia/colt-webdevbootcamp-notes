@@ -512,7 +512,7 @@ It determines how they work depending on how position is set.
 
 # CSS Transitions (yay!)
 
-So transitions allow us to animate the transition of one property value to another property value.
+So transitions allow us to animate the transition of one property value to another property value. Often used with hover effects.
 
 `trasition: 1s`
 
@@ -521,3 +521,37 @@ Syntax with further options:
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-28 at 22.34.17.png" />
 </p>
+
+NB: transition-timing-functions- lots of options
+
+To summarize how it works, there are four things that we can specify. A property that we want to animate, a duration that can be in seconds. It can also be in milliseconds.
+
+We can specify a timing function, and then after that, a delay.
+
+# The Power of CSS Transforms
+
+So Transform allows us to do a lot.
+
+- We can rotate things and warp their perspective.
+- We can scale them and stretch them and skew them.
+- We can translate or move them across the page, up or down and all sorts of things we can do multiple at once.
+
+We can rotate something and scale it.
+
+The thing that ties all of this together is that we are transforming elements.
+
+### rotate
+
+It will accept, let's see, angles we can specify as degrees, as radians.
+
+- rotateX()
+- rotateY()
+- rotateZ()
+
+### Scale
+
+Scale is another transform function that we can use that will change the size of an element. We can grow it or shrink it.
+
+- scaleX()
+- scaleY()
+- scaleZ()

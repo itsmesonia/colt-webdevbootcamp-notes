@@ -555,3 +555,12 @@ Scale is another transform function that we can use that will change the size of
 - scaleX()
 - scaleY()
 - scaleZ()
+
+### Translate
+
+Translate allows us to take one element and move it around so we can move it to the right, move it up, move it down or do both at the same time.
+
+- translateX()
+- translateY()
+
+There's a couple of different values, but it's either a length or some percentage and that length can be really any unit that we've seen. It could be `ems`, `rems`, `px` and percentages etc.

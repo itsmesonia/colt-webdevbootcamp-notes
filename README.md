@@ -564,3 +564,29 @@ Translate allows us to take one element and move it around so we can move it to 
 - translateY()
 
 There's a couple of different values, but it's either a length or some percentage and that length can be really any unit that we've seen. It could be `ems`, `rems`, `px` and percentages etc.
+
+### Skew
+
+Last one up: skew is going to skew an element on a 2D plane.
+
+- skewX()
+- skewY()
+
+It accepts angles, degrees or radians or turns or gradients.
+
+Main takeaway from transform:
+Very important to understand about _Transform_: everything we do is going to apply to not only the parent element, but also its contents. This makes it super powerful.
+
+We can do all sorts of animations and cool effects with transformations.
+
+# Responsive CSS & Flexbox
+
+It's really useful for laying out elements and adding space or sharing space, distributing space to make a webpage.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-29 at 23.11.59.png" />
+</p>
+
+Flexbox is a newer part of CSS, so it has not been around for very long at all. It's really only become pretty standardized across browsers in the last maybe two years, maybe three years.
+
+It's a tool or it's really a series of properties that we use to layout items on our page in a box of content.

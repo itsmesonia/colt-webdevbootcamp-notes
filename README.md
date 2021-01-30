@@ -579,7 +579,7 @@ Very important to understand about _Transform_: everything we do is going to app
 
 We can do all sorts of animations and cool effects with transformations.
 
-# Responsive CSS & Flexbox
+# Section 10: Responsive CSS & Flexbox
 
 It's really useful for laying out elements and adding space or sharing space, distributing space to make a webpage.
 
@@ -594,3 +594,32 @@ Flexbox is a newer part of CSS, so it has not been around for very long at all. 
 It's a tool or it's really a series of properties that we use to layout items on our page in a box of content.
 
 We have some container and we want to distribute space inside of that container.
+
+# Flex-Direction
+
+When we designate a some box or some container, a flex box, we set display to flex in that box.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-30 at 19.12.32.png" />
+</p>
+
+In that box/container, there are two axes. X is the main axis in the cross axis. And these are very important for the other properties we're going to cover.
+
+By default, the main axis goes from left to right.
+
+### flex-direction:
+
+- row, row-reverse
+- column, column-reverse
+
+# Justify-Content
+
+This property determines how the actual elements, how the content is distributed across the main axis.
+
+Default is going to be `justify-content: flex-start`.
+
+- flex-end (takes the content and move it to the end of the main axis.)
+- center
+- space-between
+- space-around
+- space-evenly

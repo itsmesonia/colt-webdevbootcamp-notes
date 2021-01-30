@@ -614,6 +614,8 @@ By default, the main axis goes from left to right.
 
 # Justify-Content
 
+It depends on flex direction. The way that it behaves depends on the main axis and that main axis can change.
+
 This property determines how the actual elements, how the content is distributed across the main axis.
 
 Default is going to be `justify-content: flex-start`.
@@ -623,3 +625,7 @@ Default is going to be `justify-content: flex-start`.
 - space-between
 - space-around
 - space-evenly
+
+# Flex-Wrap
+
+Determines whether our elements are going to rap along the main axis onto a new line if it's horizontal or a new column if it's a vertical main axis.

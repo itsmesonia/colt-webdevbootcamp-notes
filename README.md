@@ -664,3 +664,33 @@ These are three related properties that have to do with individual items in a fl
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-30 at 21.51.28.png" />
 </p>
+
+- Flex basis is just the initial size that an element should be added into our box and it might be with a height depending on the main axis direction.
+
+- Flex Grow is going to control the amount of space that an element takes up if there is available space.
+
+- Flex shrink is kind of the same concept. It governs the rate that elements shrink when there is not enough space in the container.
+
+# Flex Shorthand
+
+So we use these properties so frequently that flex was created. It allows us to set all three in one go.
+
+There are a couple of different options you can pass in three different values. And the order here:
+
+- if there are three values, is flex, grow, flex, shrink and then flex basis.
+
+- if we have two values, it's just flex, grow and flex shrink.
+
+# Responsive Design & Media Queries Intro
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-30 at 22.20.23.png" />
+</p>
+
+The term responsive design refers to basically making a website that is able to respond to the device that it's on, whether that means the screen size, if it's on a small device like a mobile phone or a super large monitor or the orientation of the device.
+
+It refers to creating a single website or application that is able to respond to different screen sizes or different features on the screen or on a device in the way that we actually do.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-30 at 22.23.45.png" />
+</p>

@@ -587,6 +587,10 @@ It's really useful for laying out elements and adding space or sharing space, di
 <img width="600px" src="./assets/Screenshot 2021-01-29 at 23.11.59.png" />
 </p>
 
+### What on Earth Is Flexbox?
+
 Flexbox is a newer part of CSS, so it has not been around for very long at all. It's really only become pretty standardized across browsers in the last maybe two years, maybe three years.
 
 It's a tool or it's really a series of properties that we use to layout items on our page in a box of content.
+
+We have some container and we want to distribute space inside of that container.

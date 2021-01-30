@@ -629,3 +629,38 @@ Default is going to be `justify-content: flex-start`.
 # Flex-Wrap
 
 Determines whether our elements are going to rap along the main axis onto a new line if it's horizontal or a new column if it's a vertical main axis.
+
+- wrap
+- nowrap
+- wrap reverse
+
+# Align-Items
+
+So justify content is along the main axis.
+
+- baseline
+- flex-end
+
+# Align-Content & Align-Self
+
+We use align-content to control or distribute space along the cross axis, but only when we have multiple rows or columns, depending on if we're in a row or column based layouts.
+
+Basically, if we are in columns like we have here, a line content controls the space between those columns.
+
+If we're in rows, the main axis is left to right, right to left. Now, if we only have one column or one row, we don't have flex wrap turned on a line. Content does nothing for us at all.
+
+It just doesn't mean anything. It's only works when we have rap or rap-reverse for flex-wrap.
+
+### Align self
+
+Aligned self is very similar to line items, except it's actually a property we add to a single element or it doesn't have to be one but two individual items in the flex container.
+
+_So it's the first property we've seen that we don't actually apply to the flex container itself, but to individual elements, and we can change the alignment along the cross axis for a single element using it._
+
+# Flex-Basis, Grow, & Shrink
+
+These are three related properties that have to do with individual items in a flex container and how they grow or shrink when there's available space or when there is too little space.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-01-30 at 21.51.28.png" />
+</p>

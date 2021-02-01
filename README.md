@@ -46,16 +46,14 @@ At its core, it's a system to share resources over the internet and all built on
 
 # Section 4: HTML: Next Steps & Semantics
 
-<p align="center">
 -<a width="600px" href="https://html.spec.whatwg.org/">HTML5</a>-new version of the language, larger set of technologies
-<p>
 
 - Block and inline elements
 - span/ div elements
 
-<p align="center">
+< align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-11 at 18.02.04.png" />
-</p>
+</>
 
 ## Entity Codes
 
@@ -691,6 +689,12 @@ The term responsive design refers to basically making a website that is able to 
 
 It refers to creating a single website or application that is able to respond to different screen sizes or different features on the screen or on a device in the way that we actually do.
 
+This is where media queries are used!
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-01-30 at 22.23.45.png" />
 </p>
+
+# The Power of Media Queries
+
+Media queries are the main mechanism that we can use to make a responsive website to restyle things or remove things, show and hide, change their sizes, go from a row to a column.

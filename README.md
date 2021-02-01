@@ -698,3 +698,5 @@ This is where media queries are used!
 # The Power of Media Queries
 
 Media queries are the main mechanism that we can use to make a responsive website to restyle things or remove things, show and hide, change their sizes, go from a row to a column.
+
+##### <a href="http://meyerweb.com/eric/tools/css/reset/">CSS rest</a>

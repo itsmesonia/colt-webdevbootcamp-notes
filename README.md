@@ -710,3 +710,14 @@ Similar tools include Bulma, Semantic UI, Material UI which all accomplish the s
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-02 at 22.56.00.png" />
 </p>
+
+How to include Bootstrap in your documentation in html document:
+
+- bootstrap CDN
+- own style sheets to avoid bootsrap overriding your styling
+
+### components
+
+- container
+- buttons
+- Bootstrap Typography & Utilities

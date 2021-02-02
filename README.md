@@ -700,3 +700,13 @@ This is where media queries are used!
 Media queries are the main mechanism that we can use to make a responsive website to restyle things or remove things, show and hide, change their sizes, go from a row to a column.
 
 ##### <a href="http://meyerweb.com/eric/tools/css/reset/">CSS rest</a>
+
+# Section 12: CSS Frameworks: Bootstrap
+
+Bootstrap is a third party tool. It's CSS that multiple people have written to incorporate in our code.
+
+Similar tools include Bulma, Semantic UI, Material UI which all accomplish the same goals.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-02 at 22.56.00.png" />
+</p>

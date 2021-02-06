@@ -721,3 +721,13 @@ How to include Bootstrap in your documentation in html document:
 - container
 - buttons
 - Bootstrap Typography & Utilities
+
+Classes for Headings:
+
+- display-1, 2, 3, 4
+
+Class for naming sources:
+
+- blockquote
+
+### Badges, Alerts, & Button Groups

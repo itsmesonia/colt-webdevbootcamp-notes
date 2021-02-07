@@ -731,3 +731,27 @@ Class for naming sources:
 - blockquote
 
 ### Badges, Alerts, & Button Groups
+
+# Intro to the Bootstrap Grid
+
+The grid system helps us lay out our content on a Web page when we're using bootstrap and it helps us actually create responsive layouts where the division of space might change depending on a screen size.
+
+- there's got to be a container class any time we want to use the grid.
+- then `row`: Every row in Bootstrap has 12 units of space to divvy up, so 12 units.
+- create columns in our row. `col-sizeupto12` or `col` for auto resizing of columns (refer to documentation)
+
+# Responsive Bootstrap Grids
+
+The most important or most exciting part, which is how we can create responsive layouts and shift content around based upon the screen size.
+
+So the way that we do this hinges upon the built in breakpoints, in bootstrap. There are different sizes that have been predefined.
+
+So we have small is from five hundred and seventy six pixels up to 768.
+Anything below five. Seventy six is considered extra small.
+Then we have medium, we have large and we have extra large, anything greater than 200 pixels wide.
+
+So these are different sizes that are predefined and we can reference them at any point using the grid system.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-07 at 13.34.45.png" />
+</p>

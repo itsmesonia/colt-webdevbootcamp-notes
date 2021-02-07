@@ -757,3 +757,11 @@ So these are different sizes that are predefined and we can reference them at an
 </p>
 
 <a a href="https://getbootstrap.com/docs/4.0/layout/grid/">Reference</a>
+
+# Useful Grid Utilities
+
+Bootstrap is built ontop of flexbox and include break points to apply these rules.
+
+## Bootstrap & Forms
+
+## Bootstrap Navbars

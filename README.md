@@ -755,3 +755,5 @@ So these are different sizes that are predefined and we can reference them at an
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-07 at 13.34.45.png" />
 </p>
+
+<a a href="https://getbootstrap.com/docs/4.0/layout/grid/">Reference</a>

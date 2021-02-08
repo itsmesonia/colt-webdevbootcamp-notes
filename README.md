@@ -762,6 +762,10 @@ So these are different sizes that are predefined and we can reference them at an
 
 Bootstrap is built ontop of flexbox and include break points to apply these rules.
 
-## Bootstrap & Forms
+## Bootstrap & Forms - see exercises attached.
 
-## Bootstrap Navbars
+## Bootstrap Navbars - see exercises attached.
+
+## Bootstrap Icons
+
+## Other Bootstrap Utilities

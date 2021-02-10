@@ -18,4 +18,18 @@ NB: to represent decimal numbers called floating points or float's often. And th
 <img width="600px" src="./assets/Screenshot 2021-02-10 at 21.53.54.png" />
 </p>
 
-Order of operation: PEMDAS - parentheses, exponents, multiplication, division, addition, subtraction.
+Order of operation: PEMDAS - parentheses, exponents (`**` to the power of), multiplication, division, addition, subtraction.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-10 at 22.00.54.png" />
+</p>
+
+It is considered a number by JavaScript, but it represents something that is not a number.
+
+# Variables & Let
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-10 at 22.07.27.png" />
+</p>
+
+Variables are useful: variables, are a way of giving some name to a value and storing it using JavaScript so that we can come back to it later to reuse it, update it, or just recall it.

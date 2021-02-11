@@ -33,3 +33,9 @@ It is considered a number by JavaScript, but it represents something that is not
 </p>
 
 Variables are useful: variables, are a way of giving some name to a value and storing it using JavaScript so that we can come back to it later to reuse it, update it, or just recall it.
+
+Quirks of JS:
+
+<p align="center">
+<img width="400px" src="./assets/Screenshot 2021-02-11 at 16.39.35.png" />
+</p>

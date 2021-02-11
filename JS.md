@@ -122,9 +122,9 @@ Every string we make in JavaScript actually comes with a set of built-In actions
 
 `.length` accesses a property and ISN'T a method, hence why there aren't parentheses after it.
 
-`toUpperCase()` - is a non destructive method, the original string is unchanged.
-`toLowerCase()`
-`trim()`
+- `toUpperCase()` - is a non destructive method, the original string is unchanged.
+- `toLowerCase()`
+- `trim()`
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.11.36.png" />
@@ -136,4 +136,16 @@ A lot of methods actually accept arguments. Arguments are just inputs that we ca
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.15.23.png" />
+</p>
+
+`indexOf()` // falsey = -1
+
+So this is commonly used to test. If a string contains something, does it contain a pound sign, does it contain a period, does it contain the word 'hello', that sort of thing.
+
+`slice()`
+
+Slice actually can accept more than one argument. Refer to the docs for this one because you may get confused at some point. So Slice is going to extract or slice a portion of a string and it returns it or it gives it to us as a new string.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.21.32.png" />
 </p>

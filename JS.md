@@ -39,3 +39,61 @@ Quirks of JS:
 <p align="center">
 <img width="400px" src="./assets/Screenshot 2021-02-11 at 16.39.35.png" />
 </p>
+
+Chickens won't update or change with the updated hens count as it's stored a value from hens from a moment in js's memory. They are not intrinsically linked. This is just a snapshot in time.
+
+# Updating Variables
+
+The below example takes the current score of a variable and adds 5 to it.
+
+```let score = 5
+   score = score + 5
+```
+
+Shorter syntax:
+
+`score += 5`
+
+Incrememting and decrementing by 1:
+
+`score++`
+
+`score--`
+
+# Const and Var
+
+There are actually two other keywords we can use to make variables
+
+`Const` stands for Constant as it stands for constant. Or do I just say it's an abbreviated version of constant anyway. It means constant and a constant is a value that does not change- you won't be able to update, change, or reassign using const.
+
+It remains constant.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 16.58.24.png" />
+</p>
+
+Var is considered old syntax and you shouldn't be using it.
+
+# Booleans
+
+We have two options for a boolean value, true or false?
+
+That's it.
+
+So booleans are used to store yes or no values, a true or false value. So these are special words in JavaScript. These play a very important role in performing logic and having our code have different outcomes and making decisions and all that really important stuff.
+
+But at their core booleans are very, very simple, just true or false values.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 17.33.35.png" />
+</p>
+
+In JavaScript, we can have a variable, a single variable that changes type. If we make a numeric variable, it is not stuck storing a number forever. We could make it store a boolean.
+
+Example:
+
+```
+let isLoggedin = true //boolean
+isLoggedin = 'hello' // string
+isLoggedin = 12345 //number
+```

@@ -144,8 +144,14 @@ So this is commonly used to test. If a string contains something, does it contai
 
 `slice()`
 
-Slice actually can accept more than one argument. Refer to the docs for this one because you may get confused at some point. So Slice is going to extract or slice a portion of a string and it returns it or it gives it to us as a new string.
+Slice actually _can accept more than one argument_. Refer to the docs for this one because you may get confused at some point. So Slice extracts or slicees a portion of a string and it returns it or it gives it to us as a _new string_.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.21.32.png" />
 </p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.26.17.png" />
+</p>
+
+Replace is powerful when combined with regular expressions to match patterns and replace a pattern instead of a specific string.

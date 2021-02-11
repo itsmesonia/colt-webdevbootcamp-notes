@@ -97,3 +97,17 @@ let isLoggedin = true //boolean
 isLoggedin = 'hello' // string
 isLoggedin = 12345 //number
 ```
+
+NB: Variable Naming and Conventions- air on the side of meanginfulness and camelcase convention for best practise.
+
+# Section 15: JavaScript Strings and More
+
+Strings are really commonly used as are numbers and booleans. Those three are probably the most important to understand right now.
+
+And a string is basically textural information, a string of characters. So they're just another primitive type and they represent text.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 17.58.46.png" />
+</p>
+
+Every character in a string has a corresponding number associated with it, a positional number that goes in order from the beginning of the string starting at zero.

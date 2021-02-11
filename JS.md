@@ -111,3 +111,29 @@ And a string is basically textural information, a string of characters. So they'
 </p>
 
 Every character in a string has a corresponding number associated with it, a positional number that goes in order from the beginning of the string starting at zero.
+
+# String Methods
+
+Every string we make in JavaScript actually comes with a set of built-In actions, which we call methods that we can perform using that particular string.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.04.18.png" />
+</p>
+
+`.length` accesses a property and ISN'T a method, hence why there aren't parentheses after it.
+
+`toUpperCase()` - is a non destructive method, the original string is unchanged.
+`toLowerCase()`
+`trim()`
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.11.36.png" />
+</p>
+
+# String Methods With Arguments
+
+A lot of methods actually accept arguments. Arguments are just inputs that we can pass into the method to alter how they behave.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.15.23.png" />
+</p>

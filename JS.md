@@ -150,8 +150,43 @@ Slice actually _can accept more than one argument_. Refer to the docs for this o
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.21.32.png" />
 </p>
 
+`replace()`
+
+Replace is powerful when combined with regular expressions to match patterns and replace a pattern instead of a specific string.
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.26.17.png" />
 </p>
 
-Replace is powerful when combined with regular expressions to match patterns and replace a pattern instead of a specific string.
+`repeat()` is another method out of so many!
+
+Ultimately, a method is just an action with a name that we can call upon, in this case - a string!
+
+# String Template Literals -SUPER USEFUL
+
+Template literals are a newer syntax and they're super useful. They allow us to create strings where we can embed an expression inside the string and that expression will be evaluated and turned into a string.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.35.19.png" />
+</p>
+
+In order to make this work, you have to use the back tick characters.
+
+`${this sequence/syntax will be treated as an expression inside th back tick and evaluated}`
+
+# Undefined & Null
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.40.09.png" />
+</p>
+
+Null something you won't run into really very often at all. It is something you _may_ set as a value for a variable, whereas undefined is something that you will run into pretty frequently, especially later on.
+
+# Random Numbers & The Math Object
+
+The math object built into JavaScript, out of the box for free.
+We have access to this thing called `Math` and it's just a collection of properties and methods that have to do with math in some way.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.43.38.png" />
+</p>

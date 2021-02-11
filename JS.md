@@ -190,3 +190,9 @@ We have access to this thing called `Math` and it's just a collection of propert
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.43.38.png" />
 </p>
+
+There's a built in method called `random` and random is going to give us a random decimal number between zero and one, but it won't actually include one.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-11 at 21.48.14.png" />
+</p>

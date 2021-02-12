@@ -64,7 +64,7 @@ Incrememting and decrementing by 1:
 
 There are actually two other keywords we can use to make variables
 
-`Const` stands for Constant as it stands for constant. Or do I just say it's an abbreviated version of constant anyway. It means constant and a constant is a value that does not change- you won't be able to update, change, or reassign using const.
+`Const` stands for Constant as it stands for constant. A constant is a value that does not change- you won't be able to update, change, or reassign using const.
 
 It remains constant.
 
@@ -196,3 +196,24 @@ There's a built in method called `random` and random is going to give us a rando
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-11 at 21.48.14.png" />
 </p>
+
+# Section 16: JavaScript Decision Making
+
+#### Comparison Operators
+
+#### Equality: Triple Vs. Double Equals
+
+#### If Statements, Else-If, Else
+
+#### Nesting Conditionals
+
+#### Truth-y & False-y Values
+
+#### Logical AND, OR, NOT
+
+Another very important core concept in JavaScript, which is making decisions with our code and something called boolean logic.
+RE decision making, it's referring to having different outcomes based off of certain criteria.
+
+_It's just having different branching paths depending on some input._
+
+## Comparison Operators

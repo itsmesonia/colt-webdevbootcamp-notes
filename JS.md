@@ -217,3 +217,47 @@ RE decision making, it's referring to having different outcomes based off of cer
 _It's just having different branching paths depending on some input._
 
 ## Comparison Operators
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 13.39.02.png" />
+</p>
+
+## Equality: Triple Vs. Double Equals
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 15.46.34.png" />
+</p>
+
+`==` checks if two values are equal, but it does not care about their type. It does not care if they are the same type. What this means is that it will attempt to coerce two values if they are of different types. It will coerce them to move them into or transform them into the same type so that you can compare them.
+
+This can lead to unexpected results.
+
+It's considered best practise to use strict equals: `===` to avoid potential bugs in your code.
+
+## If Statements
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 16.21.42.png" />
+</p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 16.22.20.png" />
+</p>
+
+## Else if and else
+
+This is another piece you can chain on if the first confidtion is false:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 16.29.01.png" />
+</p>
+
+Else is going to be the last part. If you have an else (you don't have to, but if you do,) it's the last piece of the entire conditional. And we don't specify any condition. We don't have parentheses.
+
+It's simply a catch all it's going to run as the last thing if nothing else matched first. If nothing else was true along this journey, then do this.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 17.07.26.png" />
+</p>
+
+We don't have to even have an else. You can just have an if on its own, you can have an F and announce if, but if you want to catch all we can use and else.

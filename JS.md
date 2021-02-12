@@ -260,4 +260,18 @@ It's simply a catch all it's going to run as the last thing if nothing else matc
 <img width="600px" src="./assets/Screenshot 2021-02-12 at 17.07.26.png" />
 </p>
 
-We don't have to even have an else. You can just have an if on its own, you can have an F and announce if, but if you want to catch all we can use and else.
+`If` is manadatory and the basics in making decisions. We don't have to even have an else. You can just have an if on its own, you can have an F and announce if, but if you want to catch all we can use and else.
+
+## Nesting Conditionals
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 17.22.09.png" />
+</p>
+
+## Logical Operators
+
+Logical operators are operators that allow us to combine different expressions so we can combine more than one piece of logic together to form one larger piece of logic.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 17.37.05.png" />
+</p>

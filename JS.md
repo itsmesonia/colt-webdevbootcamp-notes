@@ -275,3 +275,24 @@ Logical operators are operators that allow us to combine different expressions s
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-12 at 17.37.05.png" />
 </p>
+
+# Section 17: JavaScript Arrays
+
+- creating and updating arrays
+- push, pop, shift and unshift- built in array methods
+- concat, indexof, slice and splice -
+- multi dimensional arrays
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 21.43.37.png" />
+</p>
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 22.14.19.png" />
+</p>
+
+## Array Methods
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-12 at 22.30.19.png" />
+</p>

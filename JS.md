@@ -296,3 +296,11 @@ Logical operators are operators that allow us to combine different expressions s
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-12 at 22.30.19.png" />
 </p>
+
+# Concat, indexOf, includes & reverse
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-13 at 19.17.30.png" />
+</p>
+
+- `firstarray.concat(pass in second array)` - adds arrays together to form a new, merged array. Doesnt modify either of the originals.

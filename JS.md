@@ -315,4 +315,31 @@ Logical operators are operators that allow us to combine different expressions s
 
 - `slice()` - doesn't change the original array, you can pass in a start and stop index in parenthesis to 'slice' array elements
 
-- `sort()` - the default way that it's source, if you just call a radar source with empty parentheses, it is going to convert everything into string. And then compare their UTF 16 code unit values, these underlying code numbers basically for each string behind the scenes- it compares them and that's very Janky compared to other programming languages.
+- `sort()` - the default way that it's source, if you just call a radar source with empty parentheses, it is going to convert everything into string. And then compare their UTF 16 code unit values, these underlying code numbers basically for each string behind the scenes- it compares them and that's very Janky compared to other programming languages. It's not a reliable numeric sort unless you pass a function inside.
+
+## Reference Types & Equality Testing
+
+When we're working with arrays, what's important to note about comparing arrays is JS doesnt compare 'content', but instead comparing _references in memory_.
+
+```
+[1, 2] === [1, 2]
+false
+```
+
+(two arrays stored in js memory)
+
+## const and arrays
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-13 at 21.03.51.png" />
+</p>
+
+## Multi-Dimensional Arrays
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-13 at 21.09.27.png" />
+</p>
+
+# JavaScript Object Literals
+
+JavaScript object literals is another data structure similar to an array in the sense that it stores information and can combine multiple types of data together and multiple pieces of data.

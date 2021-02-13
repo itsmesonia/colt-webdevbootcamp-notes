@@ -309,4 +309,10 @@ Logical operators are operators that allow us to combine different expressions s
 
 - `indexOf` - similar to how it works for strings. It will always return a -1 for a falsey. So this is an easy way to tell if some element is in an array or not. We can just quickly check. Is index of that thing equal to negative one?
 
-- `reverse()` - reverses an array. It's considered s destructive method, it does change the original array.
+- `reverse()` - reverses an array. It's considered a destructive method, it does change the original array.
+
+- `splice()` - similar but does more than slice, it can remove and change an element by replacing it.
+
+- `slice()` - doesn't change the original array, you can pass in a start and stop index in parenthesis to 'slice' array elements
+
+- `sort()` - the default way that it's source, if you just call a radar source with empty parentheses, it is going to convert everything into string. And then compare their UTF 16 code unit values, these underlying code numbers basically for each string behind the scenes- it compares them and that's very Janky compared to other programming languages.

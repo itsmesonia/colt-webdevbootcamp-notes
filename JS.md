@@ -304,3 +304,9 @@ Logical operators are operators that allow us to combine different expressions s
 </p>
 
 - `firstarray.concat(pass in second array)` - adds arrays together to form a new, merged array. Doesnt modify either of the originals.
+
+- `includes()` - includes is an example of a boolean method, which means it returns true or false. It's going to tell us if an array includes a particular value.
+
+- `indexOf` - similar to how it works for strings. It will always return a -1 for a falsey. So this is an easy way to tell if some element is in an array or not. We can just quickly check. Is index of that thing equal to negative one?
+
+- `reverse()` - reverses an array. It's considered s destructive method, it does change the original array.

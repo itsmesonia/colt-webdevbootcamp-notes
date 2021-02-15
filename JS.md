@@ -342,4 +342,31 @@ false
 
 # JavaScript Object Literals
 
-JavaScript object literals is another data structure similar to an array in the sense that it stores information and can combine multiple types of data together and multiple pieces of data.
+JavaScript object literals is another data structure similar to an array in the sense that it stores information and can combine multiple types of data together and multiple pieces of data. Unlike arrays, data is stored using what we call `key value pairs` or properties. It's all about labeling our information, giving it a name.
+
+## Creating Object Literals
+
+`property = key-value pair`
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-13 at 22.05.21.png" />
+</p>
+
+## Nesting Arrays & Objects
+
+Common pattern to see array of objects.
+
+# Section 19: Repeating Stuff With Loops
+
+- loops
+- nested loops
+- while loops
+- for... of loop
+- iterating arrays
+- iterating objects
+
+# for loops
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-15 at 20.41.57.png" />
+</p>

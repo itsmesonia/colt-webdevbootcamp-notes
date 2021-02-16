@@ -376,3 +376,39 @@ Common pattern to see array of objects.
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-15 at 20.45.43.png" />
 </p>
+
+# Looping Over Arrays
+
+So looping over and creating a bunch of numbers to print out is not all that useful, but we do use loops all the time when we're interacting with arrays.
+
+Now, there's more than one way of doing this, and we'll see some others that are a little bit nicer (few lectures away). We also call it iterating over an array, doing something with or for each element in an array.
+
+Plugging your indexed number into your array to print elements:
+
+```
+for (let i= 0; i < array.length; i++) {
+  console.log(array[i])
+}
+```
+
+# Nested Loops
+
+Having one for loop, in this case for loops instead of another. So the idea here is literally putting a for loop inside the body of another for loop. But in practice, what this means is that for every single iteration of the outer loop, but say it runs five times the inner loop is going to have its own full cycle, five separate times it gets a full cycle.
+
+using a nested for loop toiterate through nested arrays
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-16 at 23.15.39.png" />
+</p>
+
+# Another Loop: The While Loop
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-16 at 23.31.16.png" />
+</p>
+
+# The Lovely For...Of Loop
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-16 at 23.46.00.png" />
+</p>

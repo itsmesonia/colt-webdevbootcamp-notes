@@ -370,3 +370,9 @@ Common pattern to see array of objects.
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-15 at 20.41.57.png" />
 </p>
+
+## Syntax are in three parts: initial expression, condition, increment expression
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-15 at 20.45.43.png" />
+</p>

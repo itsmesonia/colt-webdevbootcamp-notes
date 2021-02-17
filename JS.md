@@ -409,6 +409,51 @@ using a nested for loop toiterate through nested arrays
 
 # The Lovely For...Of Loop
 
+Next up, a brand new loop we haven't seen before of so far of is newer in JavaScript. It's not just new to us in this course, but it's also newer and JavaScript. It's a significant improvement for iterating over arrays and other iterables.
+
+Works with any iterable object in js.
+
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-16 at 23.46.00.png" />
+</p>
+
+## Syntax
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-16 at 23.48.06.png" />
+</p>
+
+### Nesting for of loops:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-16 at 23.51.13.png" />
+</p>
+
+A lot easier to read because you write a variable that corresponds to the individual element, not a variable that corresponds to an index or just the number that you then have to plug in to the array here.
+
+You don't have to plug anything into the array.
+
+Row references each element in the parent in the first array and then for student of that row array, student references this.
+
+`for..of` is commonly used.
+
+# Iterating Over Objects (literals)
+
+- the `for...in` loop is specifically designed to iterate through object, less commonly used.
+  Just gives us the `key` in the object
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-17 at 18.34.21.png" />
+</p>
+
+Another option woud be using specific object methods- to follow:
+
+### Object.keys() - creates an array
+
+### Object.values()
+
+### Object.entries() - gives us a nested array of key value pairs.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-17 at 18.43.48.png" />
 </p>

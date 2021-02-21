@@ -480,3 +480,13 @@ Arguments in JavaScript are basically a fancy way of saying inputs to a function
 </p>
 
 There's no real logic/intelligence to arguments, it's purely based on the order we pass inputs in when we're calling the function.
+
+### Multiple arguments
+
+# The Return Keyword
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-21 at 23.27.16.png" />
+</p>
+
+Re outputs, console.logging isnt an output we can capture/store in a variable and reuse.

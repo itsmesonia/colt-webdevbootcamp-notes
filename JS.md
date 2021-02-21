@@ -457,3 +457,26 @@ Another option woud be using specific object methods- to follow:
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-17 at 18.43.48.png" />
 </p>
+
+# Section 20: NEW: Introducing Functions
+
+Super useful for reducing the duplication in our code and just making our code easier to look at and easier to understand.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-17 at 20.23.08.png" />
+</p>
+
+Steps:
+
+1. defining a function
+2. running it or calling it to execute it
+
+## Arguments Intro
+
+Arguments in JavaScript are basically a fancy way of saying inputs to a function- inputs we pass in.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-21 at 22.51.08.png" />
+</p>
+
+There's no real logic/intelligence to arguments, it's purely based on the order we pass inputs in when we're calling the function.

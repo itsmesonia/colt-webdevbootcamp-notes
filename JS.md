@@ -490,3 +490,7 @@ There's no real logic/intelligence to arguments, it's purely based on the order 
 </p>
 
 Re outputs, console.logging isnt an output we can capture/store in a variable and reuse.
+
+Compare that to other builtin methods, things like `toUpperCase` or `indexof` where they _return_ of value.
+
+And we can capture that value in a variable, for example, or we could pass it on to something else.

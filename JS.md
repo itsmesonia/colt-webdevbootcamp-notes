@@ -539,3 +539,19 @@ This is an uncommon workaround- using a global veriable and accessing it inside 
 </p>
 
 Usually in our functions we have our own internal variables, like I used this example of a glass dome or a bubble surrounding this function that's really common.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-22 at 18.28.01.png" />
+</p>
+
+If we have sort of a conflict, where there are two different variables. One defined outside of a function called bird, one inside the function. Well, outside the function.
+
+We have no choice if we don't have access to this version. But inside the function we will be using or JavaScript uses the closest version, which here is Golden Pheasant.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-22 at 22.14.00.png" />
+</p>
+
+# Block Scope
+
+So a block includes things like conditionals most commonly, but also loops.

@@ -491,6 +491,51 @@ There's no real logic/intelligence to arguments, it's purely based on the order 
 
 Re outputs, console.logging isnt an output we can capture/store in a variable and reuse.
 
-Compare that to other builtin methods, things like `toUpperCase` or `indexof` where they _return_ of value.
+Compare that to other builtin methods, things like `toUpperCase` or `indexof` where they _return_ values.
+We can capture that value in a variable, for example, or we could pass it on to something else.
 
-And we can capture that value in a variable, for example, or we could pass it on to something else.
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-21 at 23.35.44.png" />
+</p>
+
+The second thing you should know is that the return keyword actually stops the execution of your function.
+So whenever it's encountered, if I have something afterwards, like console.log, this line after thereturn, will never run.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-21 at 23.36.50.png" />
+</p>
+
+# Section 21: Leveling Up Our Functions
+
+Crucial
+
+- function scope
+- block scope
+- lexical scope
+- function expressions
+- higher order functions - crucial concepts
+
+Important
+
+- returning functions
+- the keyword `this`
+- Adding methods to objects
+
+## Function Scope
+
+Where we define a variable in JavaScript, impacts where we have access to it.
+Function scope refers to variavles we define in a function, they are scoped to that function. Therefore you won't have access to variables after the fact- it's nested in the function.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-22 at 17.56.50.png" />
+</p>
+
+If we put a variable and a function versus putting it out in the open versus putting a variable in a nested function inside of a function- those all impact where we can use that variable later on.
+
+This is an uncommon workaround- using a global veriable and accessing it inside the function:
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-22 at 18.02.27.png" />
+</p>
+
+Usually in our functions we have our own internal variables, like I used this example of a glass dome or a bubble surrounding this function that's really common.

@@ -555,3 +555,9 @@ We have no choice if we don't have access to this version. But inside the functi
 # Block Scope
 
 So a block includes things like conditionals most commonly, but also loops.
+
+If our variables are declared inside of a block, those variables only exist in that world of those collaboration between the curly braces.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-22 at 22.17.02.png" />
+</p>

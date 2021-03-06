@@ -540,10 +540,6 @@ This is an uncommon workaround- using a global veriable and accessing it inside 
 
 Usually in our functions we have our own internal variables, like I used this example of a glass dome or a bubble surrounding this function that's really common.
 
-<p align="center">
-<img width="600px" src="./assets/Screenshot 2021-02-22 at 18.28.01.png" />
-</p>
-
 If we have sort of a conflict, where there are two different variables. One defined outside of a function called bird, one inside the function. Well, outside the function.
 
 We have no choice if we don't have access to this version. But inside the function we will be using or JavaScript uses the closest version, which here is Golden Pheasant.
@@ -561,3 +557,41 @@ If our variables are declared inside of a block, those variables only exist in t
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-22 at 22.17.02.png" />
 </p>
+
+# Lexical Scope
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-23 at 00.36.58.png" />
+</p>
+
+We are referencing heroes, which is not defined in here or in here, but it's defined two levels up in the grandparent function called bank robbery, and we still have access to it.
+
+So that's all there is to lexical scope. A nested, or an inner function, has access to the same stuff as the parent function or grandparent or however many levels up.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-02-23 at 00.44.05.png" />
+</p>
+
+# Function Expressions
+
+Simply a different way of defining a function. Just another syntax to defining a function but we're storing it in a variable.
+
+```
+const add = function (x, y) => {
+  return x + y
+}
+```
+
+It actually demonstrates something that is going to come up a lot in this course, which is functions are values in JavaScript.
+
+We can store them, we can pass them around just like we could pass around and store a number or an array or an object.
+
+We can pass functions as an argument. We can return functions as the return value, just like we could return a number. It demonstrates that concept that functions are treated just like anything else. They're just a value.
+
+## function statement
+
+```
+function add(x,y) {
+  return x + y
+}
+```

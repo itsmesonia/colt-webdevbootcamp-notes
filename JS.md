@@ -595,3 +595,17 @@ function add(x,y) {
   return x + y
 }
 ```
+
+# Section 22: Callbacks & Array Methods
+
+JavaScript arrays come with a set of methods, things like foreach(), map(), some(), and every(), filter()
+and reduce() that are array methods that require you to pass a function into them.
+
+You need to be able to pass functions around into other functions using some of what we just talked
+about in the last section.
+
+So if you recall, higher order functions are important to understand conceptually.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-03-06 at 18.00.55.png" />
+</p>

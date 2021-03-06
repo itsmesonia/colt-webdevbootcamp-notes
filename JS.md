@@ -598,6 +598,10 @@ function add(x,y) {
 
 # Section 22: Callbacks & Array Methods
 
+This section is about a subset of array methods, builtin methods that we have access to on every single
+
+array in JavaScript.
+
 JavaScript arrays come with a set of methods, things like foreach(), map(), some(), and every(), filter()
 and reduce() that are array methods that require you to pass a function into them.
 
@@ -608,4 +612,57 @@ So if you recall, higher order functions are important to understand conceptuall
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-03-06 at 18.00.55.png" />
+</p>
+
+### forEach
+
+Now for each actually used to be a lot more commonly used before the advent of the for of loop.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-03-06 at 18.19.19.png" />
+</p>
+
+What does it do? It allows us to run a function, run some code once per item in an array.
+
+So whatever function we pass in that function will be called once per item, where each item will be
+passed into the function automatically.
+
+### Map
+
+The next of these callback array methods we'll see is called map, so MAP is similar to forEach in the
+
+sense that it accepts a callback function and it runs that function once per element in the array.
+
+But what's very different is that it then generates a new array using the result, using the return
+
+value of that callback.
+
+So it's a way to map an array from one state to another.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-03-06 at 21.29.50.png" />
+</p>
+
+We're just taking data in an array, a starting array
+
+and usually transforming it as we map it into a new copied array so we could just use a map to make
+
+a direct copy.
+
+#### When do we use it?
+
+      It's typically used when we need a portion of our data or we want to transform every element in
+      some starting array and create a new array based upon that starting array map is often a good choice.
+
+# Arrow functions
+
+Newer alternative that is more compact to a regular function or compared to a regular function
+expression.
+
+It allows us to write functions without actually having to write the keyword function.
+And they're really useful, especially when we're doing things like this, where we're passing a function
+in that it only exists to be passed in to this other function called map.
+
+<p align="center">
+<img width="600px" src="./assets/Screenshot 2021-03-06 at 21.39.27.png" />
 </p>

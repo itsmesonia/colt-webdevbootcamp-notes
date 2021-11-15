@@ -524,7 +524,7 @@ Important
 ## Function Scope
 
 Where we define a variable in JavaScript, impacts where we have access to it.
-Function scope refers to variavles we define in a function, they are scoped to that function. Therefore you won't have access to variables after the fact- it's nested in the function.
+Function scope refers to variables we define in a function, they are scoped to that function. Therefore you won't have access to variables after the fact- it's nested in the function.
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-22 at 17.56.50.png" />
@@ -532,7 +532,7 @@ Function scope refers to variavles we define in a function, they are scoped to t
 
 If we put a variable and a function versus putting it out in the open versus putting a variable in a nested function inside of a function- those all impact where we can use that variable later on.
 
-This is an uncommon workaround- using a global veriable and accessing it inside the function:
+This is an uncommon workaround- using a global variable and accessing it inside the function:
 
 <p align="center">
 <img width="600px" src="./assets/Screenshot 2021-02-22 at 18.02.27.png" />

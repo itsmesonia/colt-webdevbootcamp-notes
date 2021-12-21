@@ -432,3 +432,5 @@ function findText() {
 console.log(findText());
 console.log((12.12234).toPrecision(2))
 console.log((12.12234).toFixed(2))
+
+console.log('hello')
